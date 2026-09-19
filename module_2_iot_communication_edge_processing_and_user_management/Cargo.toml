@@ -1,0 +1,6 @@
+[package]
+name = "module_2_iot_communication_edge_processing_and_user_management"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
