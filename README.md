@@ -13,8 +13,8 @@
       <sub>Orchestrator & Core Architect</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/USERNAME_TEMAN_1">
-        <img src="https://github.com/USERNAME_TEMAN_1.png" width="100px;" alt="Nama Teman 1"/><br />
+      <a href="https://github.com/nab4bil">
+        <img src="https://github.com/nab4bil.png" width="100px;" alt="Nama Teman 1"/><br />
         <sub><b>Nama Teman 1</b></sub>
       </a><br />
       <sub>Module 1 Lead</sub>
