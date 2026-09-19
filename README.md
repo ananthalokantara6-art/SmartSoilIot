@@ -33,9 +33,9 @@
       </a><br />
       <sub>Module 3 Lead</sub>
     </td>
-    <td align="center">
+   <td align="center">
       <a href="https://github.com/elgurX">
-        <img src="https://github.com/elgurX.png" width="100px;" alt="Nama Teman 2"/><br />
+        <img src="https://github.com/elgurX.jpeg" width="100px;" alt="elgurX"/><br />
         <sub><b>elgurX</b></sub>
       </a><br />
       <sub>Module 4 Lead</sub>
