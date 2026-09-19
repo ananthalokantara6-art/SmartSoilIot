@@ -34,9 +34,9 @@
       <sub>Module 3 Lead</sub>
     </td>
    <td align="center">
-      <a href="https://github.com/elgurX">
-        <img src="https://github.com/elgurX.jpeg" width="100px;" alt="elgurX"/><br />
-        <sub><b>elgurX</b></sub>
+      <a href="https://github.com/elowgelo">
+        <img src="https://github.com/elowgelo.png" width="100px;" alt="elgurX"/><br />
+        <sub><b>elowgelo</b></sub>
       </a><br />
       <sub>Module 4 Lead</sub>
     </td>
