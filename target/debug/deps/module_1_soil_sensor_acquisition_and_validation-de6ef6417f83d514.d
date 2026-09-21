@@ -1,0 +1,5 @@
+/Users/ananthalokantara/Documents/smart-soil-iot/target/debug/deps/module_1_soil_sensor_acquisition_and_validation-de6ef6417f83d514.d: module_1_soil_sensor_acquisition_and_validation/src/lib.rs
+
+/Users/ananthalokantara/Documents/smart-soil-iot/target/debug/deps/libmodule_1_soil_sensor_acquisition_and_validation-de6ef6417f83d514.rmeta: module_1_soil_sensor_acquisition_and_validation/src/lib.rs
+
+module_1_soil_sensor_acquisition_and_validation/src/lib.rs:

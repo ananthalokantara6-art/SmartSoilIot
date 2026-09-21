@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "module_1_soil_sensor_acquisition_and_validation",
+    "module_2_iot_communication_edge_processing_and_user_management",
+    "module_3_soil_data_platform_and_visualization",
+    "module_4_soil_analytics_and_decision_support",
+    "module_5_plant_specific_expert_system",
+    "module_6_plugin_framework_and_extensibility",
+    "smart_soil_orchestrator"
+]
+resolver = "2"
