@@ -1,6 +1,0 @@
-[package]
-name = "module_4_soil_analytics_and_decision_support"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]

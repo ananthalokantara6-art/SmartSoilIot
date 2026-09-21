@@ -1,2 +1,0 @@
-createSrcSidebar('[["module_1_soil_sensor_acquisition_and_validation",["",[],["lib.rs"]]],["module_2_iot_communication_edge_processing_and_user_management",["",[],["lib.rs"]]],["module_3_soil_data_platform_and_visualization",["",[],["lib.rs"]]],["module_4_soil_analytics_and_decision_support",["",[],["lib.rs"]]],["module_5_plant_specific_expert_system",["",[],["lib.rs"]]],["module_6_plugin_framework_and_extensibility",["",[],["lib.rs"]]],["smart_soil_orchestrator",["",[],["main.rs"]]]]');
-//{"start":19,"fragment_lengths":[70,86,69,68,61,67,48]}

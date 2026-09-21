@@ -1,6 +1,0 @@
-[package]
-name = "module_3_soil_data_platform_and_visualization"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]

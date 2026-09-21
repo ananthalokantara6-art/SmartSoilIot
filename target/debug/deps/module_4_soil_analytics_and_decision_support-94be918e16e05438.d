@@ -1,5 +1,0 @@
-/Users/ananthalokantara/Documents/smart-soil-iot/target/debug/deps/module_4_soil_analytics_and_decision_support-94be918e16e05438.d: module_4_soil_analytics_and_decision_support/src/lib.rs
-
-/Users/ananthalokantara/Documents/smart-soil-iot/target/debug/deps/libmodule_4_soil_analytics_and_decision_support-94be918e16e05438.rmeta: module_4_soil_analytics_and_decision_support/src/lib.rs
-
-module_4_soil_analytics_and_decision_support/src/lib.rs:

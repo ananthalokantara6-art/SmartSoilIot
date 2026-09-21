@@ -1,6 +1,0 @@
-[package]
-name = "module_1_soil_sensor_acquisition_and_validation"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
