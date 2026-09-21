@@ -1,6 +1,0 @@
-[package]
-name = "module_5_plant_specific_expert_system"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]

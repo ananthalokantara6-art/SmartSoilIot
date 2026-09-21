@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["discover_plugins","execute_plugin","get_current_soil_data","get_data","get_historical_soil_data","get_plan_rules","get_soil_assessment_data","receive_sensor_data","register_plugin","send_data"]};
