@@ -1,0 +1,5 @@
+D:\Semester 7\PF\SmartSoilIot\target\debug\deps\module_3_soil_data_platform_and_visualization-0ab3ad8a10dd2ee2.d: module_3_soil_data_platform_and_visualization\src\lib.rs
+
+D:\Semester 7\PF\SmartSoilIot\target\debug\deps\libmodule_3_soil_data_platform_and_visualization-0ab3ad8a10dd2ee2.rmeta: module_3_soil_data_platform_and_visualization\src\lib.rs
+
+module_3_soil_data_platform_and_visualization\src\lib.rs:
