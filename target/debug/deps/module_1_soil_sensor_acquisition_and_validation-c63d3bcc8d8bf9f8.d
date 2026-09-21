@@ -1,0 +1,5 @@
+D:\Semester 7\PF\SmartSoilIot\target\debug\deps\module_1_soil_sensor_acquisition_and_validation-c63d3bcc8d8bf9f8.d: module_1_soil_sensor_acquisition_and_validation\src\lib.rs
+
+D:\Semester 7\PF\SmartSoilIot\target\debug\deps\libmodule_1_soil_sensor_acquisition_and_validation-c63d3bcc8d8bf9f8.rmeta: module_1_soil_sensor_acquisition_and_validation\src\lib.rs
+
+module_1_soil_sensor_acquisition_and_validation\src\lib.rs:
