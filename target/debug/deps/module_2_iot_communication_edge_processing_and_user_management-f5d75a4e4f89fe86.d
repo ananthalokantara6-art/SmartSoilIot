@@ -1,0 +1,5 @@
+/Users/ananthalokantara/Documents/smart-soil-iot/target/debug/deps/module_2_iot_communication_edge_processing_and_user_management-f5d75a4e4f89fe86.d: module_2_iot_communication_edge_processing_and_user_management/src/lib.rs
+
+/Users/ananthalokantara/Documents/smart-soil-iot/target/debug/deps/libmodule_2_iot_communication_edge_processing_and_user_management-f5d75a4e4f89fe86.rmeta: module_2_iot_communication_edge_processing_and_user_management/src/lib.rs
+
+module_2_iot_communication_edge_processing_and_user_management/src/lib.rs:

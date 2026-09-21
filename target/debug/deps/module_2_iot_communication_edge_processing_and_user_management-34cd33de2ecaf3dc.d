@@ -1,0 +1,7 @@
+d:\Semester 7\PF\SmartSoilIot\target\debug\deps\module_2_iot_communication_edge_processing_and_user_management-34cd33de2ecaf3dc.d: module_2_iot_communication_edge_processing_and_user_management\src\lib.rs
+
+d:\Semester 7\PF\SmartSoilIot\target\debug\deps\libmodule_2_iot_communication_edge_processing_and_user_management-34cd33de2ecaf3dc.rlib: module_2_iot_communication_edge_processing_and_user_management\src\lib.rs
+
+d:\Semester 7\PF\SmartSoilIot\target\debug\deps\libmodule_2_iot_communication_edge_processing_and_user_management-34cd33de2ecaf3dc.rmeta: module_2_iot_communication_edge_processing_and_user_management\src\lib.rs
+
+module_2_iot_communication_edge_processing_and_user_management\src\lib.rs:

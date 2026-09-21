@@ -1,0 +1,6 @@
+[package]
+name = "module_6_plugin_framework_and_extensibility"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

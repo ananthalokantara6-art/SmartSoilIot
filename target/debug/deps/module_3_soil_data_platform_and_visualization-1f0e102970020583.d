@@ -1,0 +1,5 @@
+/Users/ananthalokantara/Documents/smart-soil-iot/target/debug/deps/module_3_soil_data_platform_and_visualization-1f0e102970020583.d: module_3_soil_data_platform_and_visualization/src/lib.rs
+
+/Users/ananthalokantara/Documents/smart-soil-iot/target/debug/deps/libmodule_3_soil_data_platform_and_visualization-1f0e102970020583.rmeta: module_3_soil_data_platform_and_visualization/src/lib.rs
+
+module_3_soil_data_platform_and_visualization/src/lib.rs:
